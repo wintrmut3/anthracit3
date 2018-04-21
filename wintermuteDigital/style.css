@@ -1,0 +1,39 @@
+.header {
+	style = background-color: #FFF; 
+	margin:0; padding:2vw; 
+	background-image:url('stars.png');
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center; font-size: 5vw;
+	color:rgba(255,255,255,0.8); 
+	margin:0; border-style: solid; 
+	border-color:rgba(255,255,255,0.6);
+}
+body{
+	background-color: #141517;
+	font-family: 'Slabo 27px';
+	margin: 0px;
+}
+
+.card {
+	background-color: white;
+	padding: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.leftColumn{
+	float:left;
+	width:75%;
+}
+.rightColumn{
+	float:right; 
+	width:25%;
+	background-color: black;
+}
+
+.title{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+}
