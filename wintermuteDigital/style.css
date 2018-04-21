@@ -10,16 +10,14 @@
 }
 body{
 	background-color: #141517;
-	font-family: 'Slabo 27px';
+	font-family: 'Open Sans Condensed', sans-serif;
 	margin: 0px;
 }
 
 .card {
 	background-color: white;
 	padding: 20px;
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin:20px;
 }
 
 .leftColumn{
@@ -30,6 +28,7 @@ body{
 	float:right; 
 	width:25%;
 	background-color: black;
+	height: 100%;
 }
 
 .title{
